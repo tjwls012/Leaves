@@ -9,7 +9,7 @@
  * @description License : LGPL 3.0
  */
  
- namespace securti\leaves;
+namespace securti\leaves;
  
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
