@@ -2,14 +2,14 @@
 
 /**
  * @name Leaves
- * @main securti\leaves\Leaves
- * @author ["Securti"]
+ * @main tjwls012\leaves\Leaves
+ * @author ["tjwls012"]
  * @version 0.1
  * @api 3.12.0
  * @description License : LGPL 3.0
  */
  
-namespace securti\leaves;
+namespace tjwls012\leaves;
  
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
